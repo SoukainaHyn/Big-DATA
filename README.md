@@ -1,2 +1,2 @@
 # Big-DATA
-Ateliers Big Data (hdfs, hadoop mapReduce, Pig, Hive, Spark
+Big Data (hdfs, hadoop mapReduce, Pig, Hive, Spark
